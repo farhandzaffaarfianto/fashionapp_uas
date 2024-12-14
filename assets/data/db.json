@@ -1,0 +1,224 @@
+{
+  "users": [
+    {
+      "id": "7b05",
+      "username": "kiki2211",
+      "email": "kiki@gmail.com",
+      "password": "111"
+    },
+    {
+      "id": "f7e9",
+      "username": "farhan2",
+      "email": "test@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2a08",
+      "username": "farhandzaffa",
+      "email": "farhandzaffa@gmail.com",
+      "password": "123"
+    }
+  ],
+  "news": [
+    {
+      "id": "1",
+      "title": "Diskon Akhir Tahun untuk Baju",
+      "content": "Menjelang akhir tahun, nikmati kesempatan luar biasa untuk memperbarui lemari pakaian Anda. Dapatkan diskon besar-besaran untuk semua koleksi baju, mulai dari pakaian kasual hingga busana formal yang dirancang untuk melengkapi setiap gaya dan suasana. Jangan lewatkan penawaran terbaik ini untuk tampil stylish dengan harga terjangkau.",
+      "image_url": "assets/images/baju.png",
+      "published_date": "2024-11-01",
+      "updated_date": "2024-11-01",
+      "kategori": "baju",
+      "author": "Farhan"
+    },
+    {
+      "id": "2",
+      "title": "Model Celana Terbaru 2024",
+      "content": "Memperkenalkan koleksi celana terbaru untuk tahun 2024, menghadirkan desain modern dan inovatif yang mengutamakan kenyamanan. Koleksi ini dirancang untuk mendukung mobilitas Anda sehari-hari, dengan bahan berkualitas tinggi yang tahan lama dan cocok untuk segala suasana. Jadikan gaya Anda lebih menonjol dengan pilihan celana trendi ini.",
+      "image_url": "assets/images/celana.png",
+      "published_date": "2024-11-02",
+      "updated_date": "2024-11-02",
+      "kategori": "celana",
+      "author": "Farhan"
+    },
+    {
+      "id": "3",
+      "title": "Topi Trendi untuk Musim Panas",
+      "content": "Lindungi diri Anda dari sinar matahari dengan koleksi topi musim panas terbaru. Topi ini tidak hanya berfungsi melindungi kulit kepala Anda, tetapi juga menjadi aksesori yang sempurna untuk melengkapi penampilan santai Anda. Dengan berbagai desain unik, koleksi ini dirancang untuk memenuhi kebutuhan gaya dan fungsi sekaligus.",
+      "image_url": "assets/images/topi_musim_panas.png",
+      "published_date": "2024-11-03",
+      "updated_date": "2024-11-03",
+      "kategori": "topi",
+      "author": "Farhan"
+    },
+    {
+      "id": "4",
+      "title": "Sepatu Sneakers Kekinian",
+      "content": "Tambahkan sentuhan kekinian pada gaya Anda dengan koleksi sneakers terbaru kami. Dirancang dengan perhatian pada detail, sepatu ini tidak hanya menawarkan kenyamanan maksimal tetapi juga gaya yang sesuai untuk berbagai aktivitas, mulai dari jalan santai hingga hangout bersama teman. Pilihan sempurna untuk tetap tampil fashionable.",
+      "image_url": "assets/images/sepatu_sneakers.png",
+      "published_date": "2024-11-04",
+      "updated_date": "2024-11-04",
+      "kategori": "sepatu",
+      "author": "Farhan"
+    },
+    {
+      "id": "5",
+      "title": "Kemeja Formal untuk Kantor",
+      "content": "Tingkatkan penampilan profesional Anda dengan kemeja formal berkualitas tinggi. Dibuat dari bahan yang nyaman dan tahan lama, koleksi ini dirancang untuk memberikan kesan elegan sepanjang hari. Dengan potongan yang modern dan detail halus, kemeja ini cocok untuk rapat penting maupun presentasi bisnis.",
+      "image_url": "assets/images/kemeja_kantor.png",
+      "published_date": "2024-11-05",
+      "updated_date": "2024-11-05",
+      "kategori": "baju",
+      "author": "Farhan"
+    },
+    {
+      "id": "6",
+      "title": "Celana Jeans Tahan Lama",
+      "content": "Koleksi celana jeans terbaru kami hadir dengan kualitas premium yang dirancang untuk ketahanan dan gaya. Celana ini menawarkan fleksibilitas untuk berbagai kegiatan, baik formal maupun kasual, sambil memastikan kenyamanan maksimal. Temukan jeans yang sempurna untuk melengkapi koleksi pakaian Anda.",
+      "image_url": "assets/images/celana_jeans.png",
+      "published_date": "2024-11-06",
+      "updated_date": "2024-11-06",
+      "kategori": "celana",
+      "author": "Farhan"
+    },
+    {
+      "id": "7",
+      "title": "Topi Baseball dengan Desain Unik",
+      "content": "Tampil gaya dengan koleksi topi baseball terbaru kami. Dengan desain yang unik dan bahan berkualitas tinggi, topi ini dirancang untuk melengkapi penampilan kasual Anda. Cocok untuk digunakan di berbagai kesempatan, koleksi ini adalah pilihan tepat untuk gaya santai yang berkelas.",
+      "image_url": "assets/images/topi_baseball.png",
+      "published_date": "2024-11-07",
+      "updated_date": "2024-11-07",
+      "kategori": "topi",
+      "author": "Farhan"
+    },
+    {
+      "id": "8",
+      "title": "Sepatu Lari Nyaman",
+      "content": "Dukung aktivitas olahraga Anda dengan sepatu lari yang dirancang khusus untuk kenyamanan dan performa. Sepatu ini dilengkapi dengan teknologi terbaru untuk memberikan bantalan maksimal dan kestabilan saat berlari. Pilihan yang sempurna untuk gaya hidup aktif dan sehat.",
+      "image_url": "assets/images/sepatu_lari.png",
+      "published_date": "2024-11-08",
+      "updated_date": "2024-11-08",
+      "kategori": "sepatu",
+      "author": "Farhan"
+    },
+    {
+      "id": "9",
+      "title": "Tunik Cantik untuk Acara Kasual",
+      "content": "Tambahkan sentuhan elegan pada penampilan Anda dengan koleksi tunik modis. Dengan pilihan warna yang beragam dan bahan berkualitas, tunik ini dirancang untuk memberikan kenyamanan dan gaya sepanjang hari. Cocok untuk berbagai kesempatan, mulai dari acara santai hingga semi-formal.",
+      "image_url": "assets/images/tunik.png",
+      "published_date": "2024-11-09",
+      "updated_date": "2024-11-09",
+      "kategori": "baju",
+      "author": "Farhan"
+    },
+    {
+      "id": "10",
+      "title": "Celana Pendek Santai",
+      "content": "Nikmati kenyamanan maksimal dengan koleksi celana pendek terbaru kami. Dirancang untuk aktivitas sehari-hari, baik di rumah maupun di luar ruangan, celana ini dibuat dari bahan berkualitas tinggi yang memberikan fleksibilitas dan gaya kasual.",
+      "image_url": "assets/images/celana_pendek.png",
+      "published_date": "2024-11-10",
+      "updated_date": "2024-11-10",
+      "kategori": "celana",
+      "author": "Farhan"
+    },
+    {
+      "id": "11",
+      "title": "Topi Panama Elegan",
+      "content": "Topi Panama yang sempurna untuk melengkapi gaya elegan Anda.",
+      "image_url": "assets/images/topi_panama.png",
+      "published_date": "2024-11-11",
+      "updated_date": "2024-11-11",
+      "kategori": "topi",
+      "author": "Rizqi"
+    },
+    {
+      "id": "12",
+      "title": "Sepatu Hiking Tangguh",
+      "content": "Sepatu hiking dengan daya tahan tinggi untuk perjalanan alam Anda.",
+      "image_url": "assets/images/sepatu_hiking.png",
+      "published_date": "2024-11-12",
+      "updated_date": "2024-11-12",
+      "kategori": "sepatu",
+      "author": "Rizqi"
+    },
+    {
+      "id": "13",
+      "title": "Kaos Polos Berbahan Lembut",
+      "content": "Kaos polos berbahan lembut yang nyaman dipakai sepanjang hari.",
+      "image_url": "assets/images/kaos_polos.png",
+      "published_date": "2024-11-13",
+      "updated_date": "2024-11-13",
+      "kategori": "baju",
+      "author": "Rizqi"
+    },
+    {
+      "id": "14",
+      "title": "Celana Jogger untuk Olahraga",
+      "content": "Celana jogger yang nyaman untuk aktivitas olahraga maupun santai.",
+      "image_url": "assets/images/celana_jogger.png",
+      "published_date": "2024-11-14",
+      "updated_date": "2024-11-14",
+      "kategori": "celana",
+      "author": "Rizqi"
+    },
+    {
+      "id": "15",
+      "title": "Topi Bucket Gaya Anak Muda",
+      "content": "Topi bucket yang keren untuk melengkapi gaya anak muda masa kini.",
+      "image_url": "assets/images/topi_bucket.png",
+      "published_date": "2024-11-15",
+      "updated_date": "2024-11-15",
+      "kategori": "topi",
+      "author": "Rizqi"
+    },
+    {
+      "id": "16",
+      "title": "Sepatu Kulit Formal",
+      "content": "Sepatu kulit dengan desain klasik untuk acara formal.",
+      "image_url": "assets/images/sepatu_kulit.png",
+      "published_date": "2024-11-16",
+      "updated_date": "2024-11-16",
+      "kategori": "sepatu",
+      "author": "Rizqi"
+    },
+    {
+      "id": "17",
+      "title": "Sweater Hangat Musim Dingin",
+      "content": "Sweater hangat dengan bahan tebal yang cocok untuk musim dingin.",
+      "image_url": "assets/images/sweater.png",
+      "published_date": "2024-11-17",
+      "updated_date": "2024-11-17",
+      "kategori": "baju",
+      "author": "Rizqi"
+    },
+    {
+      "id": "18",
+      "title": "Celana Chino Stylish",
+      "content": "Celana chino dengan desain stylish untuk tampilan semi-formal.",
+      "image_url": "assets/images/celana_chino.png",
+      "published_date": "2024-11-18",
+      "updated_date": "2024-11-18",
+      "kategori": "celana",
+      "author": "Rizqi"
+    },
+    {
+      "id": "19",
+      "title": "Topi Fedora Klasik",
+      "content": "Topi fedora dengan desain klasik yang cocok untuk acara formal.",
+      "image_url": "assets/images/topi_fedora.png",
+      "published_date": "2024-11-19",
+      "updated_date": "2024-11-19",
+      "kategori": "topi",
+      "author": "Rizqi"
+    },
+    {
+      "id": "20",
+      "title": "Sepatu Boot Outdoor",
+      "content": "Sepatu boot dengan bahan tahan air yang cocok untuk aktivitas outdoor.",
+      "image_url": "assets/images/sepatu_boot.png",
+      "published_date": "2024-11-20",
+      "updated_date": "2024-11-20",
+      "kategori": "sepatu",
+      "author": "Rizqi"
+    }
+  ]
+}
